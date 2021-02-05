@@ -1,3 +1,4 @@
+Sonne
 Merkur
 Venus
 Erde
@@ -8,3 +9,4 @@ Saturn
 Uranus
 Neptun
 Eris
+Makemake
