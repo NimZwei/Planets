@@ -9,3 +9,4 @@ Saturn
 Uranus
 Neptun
 Eris
+Makemake
