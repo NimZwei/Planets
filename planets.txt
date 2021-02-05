@@ -2,6 +2,7 @@ Merkur
 Venus
 Erde
 Mars
+Ceres
 Jupiter
 Saturn
 Uranus
